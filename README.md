@@ -1,4 +1,4 @@
-# NANA AMA AMPONSAH
+
 
 # SuperStore Data Analysis
 
